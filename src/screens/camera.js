@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   button: {
-    backgroundColor: "coral",
+    backgroundColor: "#9ab89a",
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 5,
